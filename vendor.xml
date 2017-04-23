@@ -1,0 +1,15 @@
+<manifest>
+  <remote  name="vendor"
+           fetch="https://github.com/"
+           revision="refs/heads/cr-5.1"
+           sync-c="true"
+           sync-j="8" />
+  <project path="vendor/google" name="obsd39/proprietary_vendor_google" remote="vendor" />
+  <project path="vendor/honor" name="obsd39/proprietary_vendor_honor" remote="vendor" />
+  <project path="vendor/huawei" name="obsd39/proprietary_vendor_huawei" remote="vendor" />
+  <project path="vendor/lge" name="obsd39/proprietary_vendor_lge" remote="vendor" />
+  <project path="vendor/moto" name="obsd39/proprietary_vendor_moto" remote="vendor" />
+  <project path="vendor/nvidia" name="obsd39/proprietary_vendor_nvidia" remote="vendor" />
+  <project path="vendor/oneplus" name="obsd39/proprietary_vendor_oneplus" remote="vendor" />
+  <project path="vendor/sony" name="obsd39/proprietary_vendor_sony" remote="vendor" />
+</manifest>
