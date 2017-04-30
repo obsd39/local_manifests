@@ -11,4 +11,5 @@
   <project path="vendor/nvidia" name="obsd39/proprietary_vendor_nvidia" remote="vendor" />
   <project path="vendor/oneplus" name="obsd39/proprietary_vendor_oneplus" remote="vendor" />
   <project path="vendor/sony" name="obsd39/proprietary_vendor_sony" remote="vendor" />
+  <project path="vendor/xiaomi" name="obsd39/proprietary_vendor_xiaomi" remote="vendor" />
 </manifest>
