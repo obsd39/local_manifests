@@ -8,6 +8,7 @@
   <project path="vendor/huawei" name="obsd39/proprietary_vendor_huawei" remote="vendor" />
   <project path="vendor/lge" name="obsd39/proprietary_vendor_lge" remote="vendor" />
   <project path="vendor/motorola" name="obsd39/proprietary_vendor_motorola" remote="vendor" />
+  <project path="vendor/nextbit" name="obsd39/proprietary_vendor_nextbit" remote="vendor" />
   <project path="vendor/nvidia" name="obsd39/proprietary_vendor_nvidia" remote="vendor" />
   <project path="vendor/oneplus" name="obsd39/proprietary_vendor_oneplus" remote="vendor" />
   <project path="vendor/samsung" name="obsd39/proprietary_vendor_samsung" remote="vendor" />
