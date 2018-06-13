@@ -16,4 +16,5 @@
   <project path="vendor/samsung" name="obsd39/proprietary_vendor_samsung" remote="vendor" />
   <project path="vendor/sony" name="obsd39/proprietary_vendor_sony" remote="vendor" />
   <project path="vendor/xiaomi" name="obsd39/proprietary_vendor_xiaomi" remote="vendor" />
+  <project path="vendor/zuk" name="obsd39/proprietary_vendor_zuk" remote="vendor" />
 </manifest>
