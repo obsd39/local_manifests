@@ -5,6 +5,7 @@
            sync-c="true"
            sync-j="8" />
   <project path="vendor/ambientmusic" name="obsd39/proprietary_vendor_ambientmusic" remote="vendor" />
+  <project path="vendor/essential" name="obsd39/proprietary_vendor_essential" remote="vendor" />
   <project path="vendor/google" name="obsd39/proprietary_vendor_google" remote="vendor" />
   <project path="vendor/motorola" name="obsd39/proprietary_vendor_motorola" remote="vendor" />
   <project path="vendor/oneplus" name="obsd39/proprietary_vendor_oneplus" remote="vendor" />
