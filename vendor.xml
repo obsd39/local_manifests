@@ -1,16 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="vendor"
            fetch="https://github.com/"
-           revision="refs/heads/cr-9.0"
+           revision="refs/heads/cr-11.0"
            sync-c="true"
            sync-j="8" />
-<!--  <project path="vendor/ambientmusic" name="obsd39/proprietary_vendor_ambientmusic" remote="vendor" /> -->
-  <project path="vendor/asus" name="obsd39/proprietary_vendor_asus" remote="vendor" />
-  <project path="vendor/essential" name="obsd39/proprietary_vendor_essential" remote="vendor" />
-<!--  <project path="vendor/google" name="obsd39/proprietary_vendor_google" remote="vendor" />
-  <project path="vendor/lge" name="obsd39/proprietary_vendor_lge" remote="vendor" /> -->
-  <project path="vendor/motorola" name="obsd39/proprietary_vendor_motorola" remote="vendor" />
-  <project path="vendor/oneplus" name="obsd39/proprietary_vendor_oneplus" remote="vendor" />
-  <project path="vendor/sony" name="obsd39/proprietary_vendor_sony" remote="vendor" />
-  <project path="vendor/xiaomi" name="obsd39/proprietary_vendor_xiaomi" remote="vendor" />
+  <project name="obsd39/proprietary_vendor_google_taimen" path="vendor/google/taimen" remote="vendor" />
+  <project name="obsd39/proprietary_vendor_oneplus_enchilada" path="vendor/oneplus/enchilada" remote="vendor" />
+  <project name="obsd39/proprietary_vendor_oneplus_fajita" path="vendor/oneplus/fajita" remote="vendor" />
+  <project name="obsd39/proprietary_vendor_oneplus_guacamole" path="vendor/oneplus/guacamole" remote="vendor" />
+  <project name="obsd39/proprietary_vendor_oneplus_hotdog" path="vendor/oneplus/hotdog" remote="vendor" />
+  <project name="obsd39/proprietary_vendor_oneplus_instantnoodlep" path="vendor/oneplus/instantnoodlep" remote="vendor" />
+  <project name="obsd39/proprietary_vendor_oneplus_kebab" path="vendor/oneplus/kebab" remote="vendor" />
+  <project name="obsd39/proprietary_vendor_oneplus_lemonadep" path="vendor/oneplus/lemonadep" remote="vendor" />
+  <project name="obsd39/proprietary_vendor_oneplus_sdm845-common" path="vendor/oneplus/sdm845-common" remote="vendor" />
+  <project name="obsd39/proprietary_vendor_oneplus_sm8150-common" path="vendor/oneplus/sm8150-common" remote="vendor" />
+  <project name="obsd39/proprietary_vendor_oneplus_sm8250-common" path="vendor/oneplus/sm8250-common" remote="vendor" />
+  <project name="obsd39/proprietary_vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" remote="vendor" />
 </manifest>
